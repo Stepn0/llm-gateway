@@ -1,0 +1,6 @@
+/bin/
+/config.json
+*.test
+*.out
+*.prof
+.env
